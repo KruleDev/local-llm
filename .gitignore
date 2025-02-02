@@ -12,4 +12,5 @@ venv/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.db.chainlit/
+.chainlit/
